@@ -8,7 +8,20 @@ X, y = make_regression(n_features=1, noise=65)
 ```python
 lreg = LinearRegression()
 lreg.fit(X, y)
+```
 
+```python
+lreg.coef_
+```
+  [92, 5]
+
+```python
+lreg.predict([-1, 24])
+```
+
+  [-87, 2213]
+
+```python
 lreg.plot()
 ```
 
