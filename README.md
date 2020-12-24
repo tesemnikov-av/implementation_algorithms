@@ -1,5 +1,7 @@
 # implementation_algorithms
 
+## Linear Regression
+
 ```python
 from sklearn.datasets import make_regression
 from linear_regression. import LinearRegression
