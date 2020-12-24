@@ -12,7 +12,6 @@ lreg.fit(X, y)
 
 ```python
 lreg.coef_
-
 # output: [92, 5]
 
 lreg.predict([-1, 24])
@@ -22,4 +21,6 @@ lreg.predict([-1, 24])
 ```python
 lreg.plot()
 ```
+
+![Linear Regression](lin_reg_plot.png)
 
