@@ -1,4 +1,4 @@
-# implementation_algorithms
+# Implementation of Algorithms from scratch on numpy
 
 ## Linear Regression
 
