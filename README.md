@@ -4,7 +4,7 @@
 
 ```python
 from sklearn.datasets import make_regression
-from linear_regression. import LinearRegression
+from linear_regression import LinearRegression
 
 X, y = make_regression(n_features=1, noise=65)
 
