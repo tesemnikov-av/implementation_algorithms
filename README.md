@@ -12,17 +12,12 @@ lreg.fit(X, y)
 
 ```python
 lreg.coef_
-```
 
-[ OUTPUT ]
-    [92, 5]
+# output: [92, 5]
 
-```python
 lreg.predict([-1, 24])
+# output: [-87, 2213]
 ```
-
-[ OUTPUT ]
-    [-87, 2213]
 
 ```python
 lreg.plot()
