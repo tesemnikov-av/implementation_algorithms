@@ -1,4 +1,4 @@
-# Implementation of Algorithms from scratch on numpy
+# Simple Implementation of ML Algorithms from scratch on numpy
 
 ## Linear Regression
 
