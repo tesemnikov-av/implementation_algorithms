@@ -18,6 +18,9 @@ lreg.predict([-1, 24])
 # output: [-87, 2213]
 
 lreg.plot()
+
+# Need Confidence interval
+
 ```
 
 ![Linear Regression](lin_reg_plot.png)
