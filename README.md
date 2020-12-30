@@ -1,4 +1,4 @@
-# Simple Implementation of ML Algorithms from scratch on numpy
+# VRNK - ML with Numpy only
 
 ## Linear Regression
 
