@@ -23,5 +23,5 @@ lreg.plot()
 
 ```
 
-![Linear Regression](lin_reg_plot.png)
+![Linear Regressions](lin_reg_plot.png)
 
