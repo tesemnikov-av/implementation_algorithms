@@ -23,4 +23,4 @@ lreg.plot()
 
 ```
 
-![Linear Regressions]('./lin_reg_plot.png')
+![Linear Regressions]('https://github.com/tesemnikov-av/implementation_algorithms/blob/main/lin_reg_plot.png?raw=true')
