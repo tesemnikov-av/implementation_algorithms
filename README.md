@@ -25,7 +25,7 @@ lreg.plot()
 
 ![Linear Regressions](https://github.com/tesemnikov-av/implementation_algorithms/blob/main/pics/linreg_plot.png?raw=true)
 
-## K-nearest Neighbors Algorithm (https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+## K-nearest Neighbors Algorithm
 
 ```python
 from sklearn import datasets
